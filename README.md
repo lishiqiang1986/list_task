@@ -27,13 +27,13 @@
 
 ## 小程序界面展示
 
-<img width="1440" height="3168" alt="48d91ab4b1931af61d2d0c1c05cc9914" src="https://github.com/user-attachments/assets/da564000-2176-4cdc-b2de-5b0cf66afe2e" />
+<img  width="300" alt="48d91ab4b1931af61d2d0c1c05cc9914" src="https://github.com/user-attachments/assets/da564000-2176-4cdc-b2de-5b0cf66afe2e" />
 
-<img width="1440" height="3168" alt="681b0f014160927a3e42d03e1befb674" src="https://github.com/user-attachments/assets/588f2ae2-45b9-4ea0-a13b-9d21c4c4010f" />
+<img  width="300" alt="681b0f014160927a3e42d03e1befb674" src="https://github.com/user-attachments/assets/588f2ae2-45b9-4ea0-a13b-9d21c4c4010f" />
 
-<img width="1440" height="3168" alt="84b5036ea0feca48693d981f3be0ba70" src="https://github.com/user-attachments/assets/38f6c0a1-3e60-4648-9e96-4d46000d69e8" />
+<img  width="300"alt="84b5036ea0feca48693d981f3be0ba70" src="https://github.com/user-attachments/assets/38f6c0a1-3e60-4648-9e96-4d46000d69e8" />
 
-<img width="1440" height="3168" alt="138be4859b93a78ce07ce32bcf25bd09" src="https://github.com/user-attachments/assets/fdf3a10d-6117-4d5c-b588-121165df6dc4" />
+<img  width="300" alt="138be4859b93a78ce07ce32bcf25bd09" src="https://github.com/user-attachments/assets/fdf3a10d-6117-4d5c-b588-121165df6dc4" />
 
 
 ---
@@ -51,4 +51,4 @@
 
 ## 小程序二维码
 这是微信小程序的二维码：
-<img width="700" height="700" alt="小程序二维码" src="https://github.com/user-attachments/assets/ec8a1d92-d08e-4d39-ba25-d773957bd828" />
+<img  width="300" alt="小程序二维码" src="https://github.com/user-attachments/assets/ec8a1d92-d08e-4d39-ba25-d773957bd828" />
